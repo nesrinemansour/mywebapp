@@ -1,2 +1,3 @@
 # mywebapp
-une application permettent la récuperation des informations d'une base de données
+une application permettent la récuperation des informations d'une base de données.
+Utilisation de Maven.
